@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.32.12
+
+-   Link attribution banner to [filepond.com](https://filepond.com)
+
 ## 4.32.11
 
 -   Merge fix file processing aborted and moving to next file. #1065

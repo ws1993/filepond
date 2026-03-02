@@ -205,5 +205,5 @@ export const defaultOptions = {
     files: [[], Type.ARRAY],
 
     // show support by displaying credits
-    credits: [['https://pqina.nl/', 'Powered by PQINA'], Type.ARRAY],
+    credits: [['https://filepond.com', 'Powered by FilePond'], Type.ARRAY],
 };
